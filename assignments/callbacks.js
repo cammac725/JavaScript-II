@@ -87,8 +87,18 @@ console.log(contains('popsicle', items, check));
 
 /* STRETCH PROBLEM */
 
-function removeDuplicates(array, cb) {
-  // removeDuplicates removes all duplicate values from the given array.
-  // Pass the duplicate free array to the callback function.
-  // Do not mutate the original array.
-}
+// removeDuplicates removes all duplicate values from the given array.
+// Pass the duplicate free array to the callback function.
+// Do not mutate the original array.
+
+// let dupeFree = [];
+
+// function removeDuplicates(array, callback) {
+//   return callback(array);
+// }
+
+// function dupes(array) {
+//   array.forEach(function (currentValue) {
+//     if
+//   });
+// }
