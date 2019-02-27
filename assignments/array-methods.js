@@ -61,7 +61,6 @@ runners.forEach(function (runner) {
   let result = '';
   result = `${runner.first_name} ${runner.last_name}`;
   fullName.push(result);
-  return fullName;
 })
 console.log(fullName);
 
